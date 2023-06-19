@@ -1,1 +1,1 @@
-#   Making SMS-Spam-Detection project using Machine Learning 
+#   Making EMAIL-Spam-Detection project using Machine Learning 
